@@ -1,0 +1,6 @@
+# requirements.txt
+# Add all your required Python packages here, one per line.
+# Example:
+# pandas
+# requests
+colorama
